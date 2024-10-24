@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kuuga2000/vuelearn#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   }
 }
